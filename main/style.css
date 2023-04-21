@@ -56,6 +56,15 @@ nav a:hover {
     margin-right: 20px;
 }
 
+.article-image2 {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    width: 50%;
+    float: right;
+    margin-left: 20px;
+}
+
 @media (max-width: 600px) {
     nav ul {
         flex-direction: column;
